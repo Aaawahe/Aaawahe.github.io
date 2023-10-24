@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Youquan / Site Title"
+title                    : "Li Youquan"
 title_separator          : "-"
 name                     : &name "Li Youquan"
-description              : &description "A master in Peking University."
+description              : &description "A master student in Peking University."
 url                      : https://Aaawahe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aaawahe.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Li Youquan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A master student in Peking University."
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Aaawahe"
   google_plus      :
   keybase          :
   instagram        :
