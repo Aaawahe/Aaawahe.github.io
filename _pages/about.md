@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-Youquan Li is a master student of [Center of Data Science](https://www.ds.pku.edu.cn/), Peking University, advised by Prof. [Wentao Zhang](https://zwt233.github.io/). He received his bachelor's degree in data science and big data technology from Fudan University in June 2023. Currently, I am working on the research topics about LLM data quality improvement and LLM evaluation.
+Youquan Li is a master student of [Center of Data Science](https://www.ds.pku.edu.cn/), Peking University, advised by Prof. [Wentao Zhang](https://zwt233.github.io/). He received his bachelor's degree in data science and big data technology from Fudan University in June 2023. Currently, he is working on the research topics about LLM data quality improvement and LLM evaluation.
 
 Email: aaawahe@163.com
 
