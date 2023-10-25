@@ -17,11 +17,13 @@ Email: aaawahe@163.com
 Education
 ------
 - 2023 - 2026(expected)
+
   Master student of Center of [Data Science](https://www.ds.pku.edu.cn/), Peking University
   - Major: Data Science
   - Tutor: Assistant Professor
 
 - 2019 - 2023
+
   Bachelor(data science and big data technology), at [School of Data Science](https://sds.fudan.edu.cn/) of Fudan University
 
 Internship
