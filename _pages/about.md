@@ -28,4 +28,5 @@ Education
 
 Internship
 ------
-- 2023.6 - 2023.10 NLP R&D intern at Talent Intelligence Center, Baidu
+- 2023.06 - 2023.10 NLP R&D intern at Talent Intelligence Center, Baidu
+- 2023.11 - Present Researcher intern at Large Model Data Infrastructure Department, Shanghai AI Lab 
